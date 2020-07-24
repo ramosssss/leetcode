@@ -1,4 +1,6 @@
-package org.example;
+package org.example.leetcode;
+
+import org.example.leetcode.ListNode;
 
 /**
  * @program: leetcode

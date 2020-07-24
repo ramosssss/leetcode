@@ -1,4 +1,4 @@
-package org.example;
+package org.example.leetcode;
 
 /**
  * @program: leetcode
@@ -6,6 +6,8 @@ package org.example;
  * @author: Yuyang
  * @create: 2020-07-01 09:29
  */
+
+import org.example.leetcode.TreeNode;
 
 import java.util.Stack;
 
