@@ -74,7 +74,7 @@ class RandomizedSet {
 
     /** Get a random element from the set. */
     public int getRandom() {
-        return hash.
+        return 1;
     }
 }
 
